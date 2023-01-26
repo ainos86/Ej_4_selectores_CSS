@@ -1,0 +1,48 @@
+/* Estilos para colores */
+.colores {
+    color: orangered;
+
+}
+
+.color-hexadecimal {
+    color: #85BAA1;
+}
+
+.color-rgb {
+    color: rgb(100, 100, 200);
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.05);
+}
+
+/* Fondos */
+
+.fondo {
+    background-color: lightblue;
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3798.jpg?w=2000");
+    background-position: center center;
+}
+
+/* Tamanos */
+
+.ancho {
+    background-color: darkgoldenrod
+    width: 100px;
+}
+
+.alto {
+    background-color: darkgray;
+    height: 200px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /* border-top: none; */
+    padding: 10px 20px;
+    /* padding: 10px 20px 30px 40px */
+    margin: 10px;
+
+}
